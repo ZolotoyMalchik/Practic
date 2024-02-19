@@ -1,0 +1,12 @@
+.sorting{
+    display: flex;
+    gap: 5px;   
+
+}
+.sorting select{
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 13px;
+    padding-left: 20px;
+}
